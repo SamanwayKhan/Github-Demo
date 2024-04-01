@@ -1,2 +1,2 @@
 # Github-Demo
-This contains the demo to-do s and guide to github
+Hello all , this repo is consisting of the guide and roadmap in using git and github.
